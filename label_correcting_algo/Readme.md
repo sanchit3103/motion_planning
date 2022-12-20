@@ -14,7 +14,7 @@ This project focuses on the methodology to design and implement autonomous navig
   
 </p>
 
-## Details to run the code:
+## Details to run the code
 
 * <b> doorkey.py: </b> Main file which should be run to execute the project. The environment name will have to be changed here to run the code for different environments.
 * <b> utils.py: </b> Contains all the utility functions required for the project.
