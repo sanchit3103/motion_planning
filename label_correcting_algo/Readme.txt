@@ -8,4 +8,4 @@ Details to run the code:
 
 4) doorkey.py - Main file which should be run to execute Part A and Part B of the problem statement. The functions to call Part A and Part B code and currently uncommented. For Part A, the environment name will have to be changed to run the code for different environment. It is currently set at doorkey-8x8-shortcut.env.
 
-Link to the report: https://github.com/sanchit3103/motion_planning/blob/main/label_correcting_algo/Report.pdf
+Project Report: Sanchit Gupta, 'Autonomous Navigation in a Door & Key Environment using Dynamic Programming', ECE 276B, Course Project, UCSD
