@@ -13,4 +13,4 @@ Project Report: [Sanchit Gupta, 'Autonomous Navigation in a Door & Key Environme
 Project Implementation in form of GIF files for different environments:
 
 
-![GIF_PartA_8x8_Normal](https://user-images.githubusercontent.com/4907348/208604724-f22f20a8-b07f-4729-bba7-b64be0909588.gif)        ![GIF_PartB_Random_Env3](https://user-images.githubusercontent.com/4907348/208604798-a7bf1d2b-75d6-44b8-a9fa-27eeaf0356d8.gif)       ![GIF_PartB_Random_Env4](https://user-images.githubusercontent.com/4907348/208604831-a8da8a94-fd6f-4a7f-9253-a8a882f55d78.gif)
+![GIF_PartA_8x8_Normal](https://user-images.githubusercontent.com/4907348/208604724-f22f20a8-b07f-4729-bba7-b64be0909588.gif)       ![GIF_PartB_Random_Env3](https://user-images.githubusercontent.com/4907348/208604798-a7bf1d2b-75d6-44b8-a9fa-27eeaf0356d8.gif)          ![GIF_PartB_Random_Env4](https://user-images.githubusercontent.com/4907348/208604831-a8da8a94-fd6f-4a7f-9253-a8a882f55d78.gif)
