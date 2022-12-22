@@ -18,5 +18,5 @@ This project focuses on the methodology to design and implement autonomous navig
 
 * <b> main.py: </b> Main file which should be run to execute the project. The environment name will have to be changed here to run the code for different environments.
 * <b> utils.py: </b> Contains all the utility functions required for the project.
-* <b> part_a.py: </b> Implentation of label correcting algorithm for environments with single door.
-* <b> part_b.py: </b> Implentation of label correcting algorithm for environments with multiple doors.
+* <b> part_a.py: </b> Implementation of label correcting algorithm for environments with single door.
+* <b> part_b.py: </b> Implementation of label correcting algorithm for environments with multiple doors.
