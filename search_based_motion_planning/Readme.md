@@ -11,7 +11,9 @@ This project focuses on the methodology to design and implement a search-based m
 
 <p align="center">
   
-  <img src = "https://user-images.githubusercontent.com/4907348/209067511-abff2ed7-992b-4170-a6a0-580df68b3d0f.gif"/>, <img src = "https://user-images.githubusercontent.com/4907348/209067580-66ad33a9-b5b7-4962-9ba9-57a34333c326.gif"/>, <img src = "https://user-images.githubusercontent.com/4907348/209067853-0fb3fbaa-7a15-473f-a89c-59c0e8164318.gif" /> 
+  <img src = "https://user-images.githubusercontent.com/4907348/209067511-abff2ed7-992b-4170-a6a0-580df68b3d0f.gif" height="300"/>
+  <img src = "https://user-images.githubusercontent.com/4907348/209067580-66ad33a9-b5b7-4962-9ba9-57a34333c326.gif" height="300"/>
+  <img src = "https://user-images.githubusercontent.com/4907348/209067853-0fb3fbaa-7a15-473f-a89c-59c0e8164318.gif" height="300"/> 
   
 </p>
 
