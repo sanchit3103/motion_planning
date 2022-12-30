@@ -20,5 +20,5 @@ This project focuses on the methodology to design and implement a search-based m
 ## Details to run the code:
 
 * <b> main.py: </b> Main file which should be run to execute the project. The environment name will have to be changed here to run the code for different environments.
-* <b> robotplanner.py: </b> Implentation of A* algorithm to plan the optimal path for the robot.
+* <b> robotplanner.py: </b> Implementation of A* algorithm to plan the optimal path for the robot.
 * <b> targetplanner.py: </b> Execution of target movement.
